@@ -4579,9 +4579,9 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 5%, rgba(121,9,56,1) 44%, rgba
     text-align: center;
     font-size: 18px;
     font-weight: 600;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     padding-bottom: 6px;
-    color: #000;
+    color: #35405c;
     letter-spacing: 0.3px;
     padding: 0;
 }
