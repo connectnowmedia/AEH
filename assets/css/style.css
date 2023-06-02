@@ -4595,6 +4595,13 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 5%, rgba(121,9,56,1) 44%, rgba
     right: 0;
     margin: auto;
 }
+
+#zx:hover{
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+
 /****************/
 /*	 BX-SLIDER 	*/
 /****************/
