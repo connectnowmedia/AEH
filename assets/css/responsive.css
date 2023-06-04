@@ -280,6 +280,10 @@
         color:    white!important;
     }
 
+    #contactForm ::placeholder { /* Most modern browsers support this now. */ /* new */
+        color:    black!important;
+    }
+
     /*-- New --*/
 
     #inColor{
